@@ -1,0 +1,16 @@
+{
+    "version": "1.0.0",
+    "summary": "Vector 2D implemantion for Elm",
+    "repository": "https://github.com/alinz/elm-vector2d.git",
+    "license": "MIT",
+    "source-directories": [
+        "src"
+    ],
+    "exposed-modules": [
+        "Vector2D"
+    ],
+    "dependencies": {
+        "elm-lang/core": "3.0.0 <= v < 4.0.0"
+    },
+    "elm-version": "0.16.0 <= v < 0.17.0"
+}
